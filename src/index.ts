@@ -84,7 +84,7 @@ const checkDomain = (
 				);
 				break;
 			case "8":
-				listener(new Error(lines[0]));
+				result.status = new Error(lines[0]);
 				break;
 			case "9":
 				result.status = new CompetitiveClearanceProcess(

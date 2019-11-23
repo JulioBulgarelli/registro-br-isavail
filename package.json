@@ -1,6 +1,6 @@
 {
 	"name": "@bulgamart/registro-br-isavail",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Biblioteca para consulta de domínios .br em NodeJS",
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
